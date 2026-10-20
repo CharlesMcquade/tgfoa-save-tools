@@ -1,8 +1,16 @@
-# tgfoa-save-tools
+# Avalon Quest Reader
 
-Read quest and objective state from *Tainted Grail: The Fall of Avalon* saves: what's in your journal, which objectives are done and what changed between two saves. Pure Python 3 standard library, with no game install or extraction step.
+**tgfoa-save-tools**: read quest and objective state from *Tainted Grail: The Fall of Avalon* saves: what's in your journal, which objectives are done and what changed between two saves. Pure Python 3 standard library, with no game install or extraction step.
 
 > Unofficial fan project. Not affiliated with or endorsed by Questline or Awaken Realms. The save format was reverse-engineered on PC (Steam) patch 1.30 and may change with future patches. Contains no game code or assets. `quest_templates.json` maps quest GUIDs to their internal template names only.
+
+## Why this exists
+
+*The Fall of Avalon* has a lot of quests that overlap and branch. Come back after a week away and it's hard to tell from the journal which threads are still open, which objective you were on, or whether a quest went quiet because you finished it or because you never picked it up. The save file knows exactly. This tool reads it.
+
+- **Where am I?** Every active quest and its current objective, straight from the save.
+- **What did I just do?** Diff two saves to see what a session started, advanced or closed.
+- **What's next?** Give the output and `SKILL.md` to an AI agent. The tool supplies your exact state; the agent maps it to a quest guide and tells you the next step, as vaguely or as specifically as you ask. The tool itself contains no walkthrough and no spoilers.
 
 ## What it reads
 
