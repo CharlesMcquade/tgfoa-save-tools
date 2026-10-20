@@ -10,7 +10,7 @@ Verified against patch 1.30, mono branch (PC/Steam).
 ## Locating saves
 
 - `%USERPROFILE%\AppData\LocalLow\Questline\Fall of Avalon\<steamid>\Saved\*.zip`
-- The LocalLow folder is named after the **developer** (Questline), not the publisher (Awaken Realms). If you're probing an unfamiliar Unity game, list `LocalLow/` and match on any studio-name fragment.
+- The LocalLow folder is named after the **developer**, Questline, not the publisher, so searching for "Awaken Realms" finds nothing.
 - Each save `.zip` holds `MetaData.data` (version string, save name, JPEG thumbnail) plus one `.data` file per visited location (`CampaignMap_HOS` = world map) and `Gameplay.data` (global state, including quests).
 
 ## Payload encoding
@@ -65,11 +65,11 @@ Do this after game patches if new quests show up as unmapped. Needs `pip install
 
 1. Get the save(s): `scripts/tgfoa_save.py pull` (local) or `pull --host H --path P` (ssh).
 2. `quests <save>` for the journal snapshot; `objectives <save> <QuestFragment>` for stage detail.
-3. **Calibrate before trusting:** check 2–3 quests against the player's in-game journal. State enums can shift between games and patches.
+3. **Calibrate before trusting:** check 2–3 quests against the player's in-game journal, especially after a patch.
 4. For "what did I just do", `diff` two saves that bracket a known play session. Use 3+ saves to separate *completed* from *dormant* (1 → 0 after a turn-in vs never-active).
 
-## General Unity-save lessons
+## If a patch breaks the reader
 
-- Try raw deflate first on any high-entropy blob. Entropy ~8.0 means compressed OR encrypted, and compressed is the common case.
-- To rule out per-save encryption, byte-compare an unchanged file across two saves. Identical bytes mean a deterministic transform.
-- On mono builds, decompile `<game>_Data/Managed/*.dll` (check the studio's own DLL, not just `Assembly-CSharp`) with `dnfile` + `dncil` instead of guessing. C# string literals live in the `#US` heap as UTF-16LE.
+- Confirm the `.data` files still inflate with raw deflate. A location file you didn't revisit should be byte-identical across two saves, which rules out per-save encryption.
+- Save-model code lives in `Fall of Avalon_Data/Managed/TG.Main.dll` (mono build), not `Assembly-CSharp`. Decompile it with `dnfile` + `dncil` rather than guessing at new tags. C# string literals sit in the `#US` heap as UTF-16LE.
+- Re-check the quest and objective state values against the in-game journal before trusting new output.
