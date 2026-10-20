@@ -1,0 +1,1078 @@
+[
+ {
+  "guid": "7a856c4b99119aa4880102cf42b43600",
+  "go_name": "TASK_GivenTheGate_TheWoundedOne"
+ },
+ {
+  "guid": "7aa31df48b94f2c4984e1003c93fac43",
+  "go_name": "SQ_EasyPrey"
+ },
+ {
+  "guid": "ca1b17129ca37024b9f6345ec646f18e",
+  "go_name": "TASK_InvestigateTheShore"
+ },
+ {
+  "guid": "a27210f20eb163f41bc5e33e06724ce1",
+  "go_name": "SQ_HollowBlessings"
+ },
+ {
+  "guid": "250c5e4b81bf7a947b9cf03cdc3a118c",
+  "go_name": "SQ_TheHiddenHand"
+ },
+ {
+  "guid": "06db225180ac8a24cb317f59c99dd732",
+  "go_name": "SQ_FlightDelayed"
+ },
+ {
+  "guid": "c45aca29c0661584a9f141afd1f75b2c",
+  "go_name": "SQ_EnterTheVoid"
+ },
+ {
+  "guid": "f57eebb28ee9b394d82356882a0a9863",
+  "go_name": "SQ_WhiteStone"
+ },
+ {
+  "guid": "e625c47f75c9c2d478cc626d40dc2343",
+  "go_name": "SQ_PainRelief"
+ },
+ {
+  "guid": "1be2f0e8210175e4d83c5cb16cece89b",
+  "go_name": "SQ_ThroughTheCracks"
+ },
+ {
+  "guid": "91767aeeaa50909469e9cbe30013f318",
+  "go_name": "SQ_ChangeOfHeart"
+ },
+ {
+  "guid": "0d0a0a5943d489e41bab4262aaffa234",
+  "go_name": "SQ_BrandedAndExiled_Obsolete"
+ },
+ {
+  "guid": "b8bb11035109f4f47955d44c7e1b40bb",
+  "go_name": "SQ_FireOfTheMind"
+ },
+ {
+  "guid": "02aec001903ac3343a7698e3f2354899",
+  "go_name": "TASK_DeepCallethUponDeep"
+ },
+ {
+  "guid": "8ceb15490eb30dd4fa09204f9f92535f",
+  "go_name": "SQ_FeastOfMercy"
+ },
+ {
+  "guid": "f9bbe46dbdb5ce742a87f147b8ba3c8b",
+  "go_name": "TASK_Sanguinor"
+ },
+ {
+  "guid": "3aeef4e1032e3db4694366d1e86d3246",
+  "go_name": "TASK_HealerInstinct"
+ },
+ {
+  "guid": "2be88d1304a4612469c7403abee3cfa7",
+  "go_name": "MQ_GrailCycle"
+ },
+ {
+  "guid": "2c58f10cab12e3f41917113ab9533c86",
+  "go_name": "SQ_SweetDreams"
+ },
+ {
+  "guid": "111a418763a959c4e8a162de7b13e7d0",
+  "go_name": "SQ_KindredCurse"
+ },
+ {
+  "guid": "c63a88c86cca37a4eb586038f47de4d7",
+  "go_name": "SQ_BladeInTheShadows"
+ },
+ {
+  "guid": "75b7d0968dd08014c865615e6925cba9",
+  "go_name": "SQ_BrandedAndExiled"
+ },
+ {
+  "guid": "0096403501818904da4c3e3a6b4787d0",
+  "go_name": "TASK_Rennard"
+ },
+ {
+  "guid": "5b1ec38d6e76e3142bfe588fcf9045f0",
+  "go_name": "SQ_ClawMeClawThee"
+ },
+ {
+  "guid": "933296e083a02e849ba977df8979b157",
+  "go_name": "TASK_SilentSilia"
+ },
+ {
+  "guid": "9974d85ceae8c864699a01ab6b420ea1",
+  "go_name": "Task_ReforgeTheChatterblade"
+ },
+ {
+  "guid": "8c1464e9774470547b58a3dd276598cc",
+  "go_name": "SQ_StitchByStitch"
+ },
+ {
+  "guid": "cd898ed674eedb1409dfb3450596f579",
+  "go_name": "SQ_KitchenNightmares"
+ },
+ {
+  "guid": "393990a0448d10d49a74cffdcdc3212c",
+  "go_name": "SQ_HisHeartWasGreenerThanMine"
+ },
+ {
+  "guid": "95d61c04e5509914db9dfdc7a39b1224",
+  "go_name": "TASK_FrostgrotsMucusForHrafn"
+ },
+ {
+  "guid": "2f1de130b5a1d7848b0d12d32181439a",
+  "go_name": "SQ_MeasuredMercy"
+ },
+ {
+  "guid": "6b0e0bc2bfbe8504fb1f442a8bd987ee",
+  "go_name": "TASK_MastersChisel"
+ },
+ {
+  "guid": "5e030baadc4fee6428196ce213b3c0dc",
+  "go_name": "SQ_NoPlaceForStrays"
+ },
+ {
+  "guid": "d0013c12a7f6e39438f0efb5af34e4c4",
+  "go_name": "TASK_Marrowghast"
+ },
+ {
+  "guid": "2ec37e9b75fb036479af98febb3efcce",
+  "go_name": "SQ_ConfrontationLooksLikeHope"
+ },
+ {
+  "guid": "1d1032ff354ace844b9183fa74dd02c8",
+  "go_name": "TASK_IceWeaversBrainForHrafn"
+ },
+ {
+  "guid": "4a18007f10a438a45b437d2b3762d527",
+  "go_name": "SQ_NonOmnisMoriar"
+ },
+ {
+  "guid": "eabd920158f6fb246a02335107a8b38d",
+  "go_name": "MQ_AWorldToWin"
+ },
+ {
+  "guid": "31a969fb848eee74784557268005a83f",
+  "go_name": "SQ_LostThings"
+ },
+ {
+  "guid": "53be3f86e1aac2849ba9dfe7c8ed17af",
+  "go_name": "TASK_RunningFromThyself"
+ },
+ {
+  "guid": "29e4409f7f064b547872dbd535e2c28d",
+  "go_name": "SQ_PeopleAreStrange"
+ },
+ {
+  "guid": "43ee1719791434343b579a5909ff9501",
+  "go_name": "TASK_BrothersInArms"
+ },
+ {
+  "guid": "449ca5f4af61a1b4bb89250bc085b4aa",
+  "go_name": "SQ_LensesAndEyeOftheSage"
+ },
+ {
+  "guid": "c9a17bf1c03de0c4dbb5e6d8f7e514c1",
+  "go_name": "TASK_BromharNoFace"
+ },
+ {
+  "guid": "6b4006eb7c6f5324889e814faf6a76c6",
+  "go_name": "TASK_PreyOfTheFather"
+ },
+ {
+  "guid": "60c899cbfc61f0441bf51c0581ffe172",
+  "go_name": "SQ_BringBackTheTremble"
+ },
+ {
+  "guid": "901ebfedf8a52c44eaeacf6c267244eb",
+  "go_name": "SQ_TheLastVoyage"
+ },
+ {
+  "guid": "4d3b094e772173049acfb5d5fd87a751",
+  "go_name": "SQ_HissHisName"
+ },
+ {
+  "guid": "add3c3593c0eb834283b54ac8b941f7d",
+  "go_name": "SQ_Creed"
+ },
+ {
+  "guid": "248739a5132a1e04db19828843a46116",
+  "go_name": "Task_Unfolding"
+ },
+ {
+  "guid": "ffbf8bfb76228d0449f16f0aa054188d",
+  "go_name": "SQ_LoveThatLingers"
+ },
+ {
+  "guid": "e754e31c0d9030f4a8f1065f6b068769",
+  "go_name": "SQ_Ascension"
+ },
+ {
+  "guid": "4c2a6cc5e74d0ee43bbe8d78338434dd",
+  "go_name": "SQ_PlayingWithFire"
+ },
+ {
+  "guid": "c2239a1147a476f4f9aa7e084e3f027f",
+  "go_name": "SQ_RecurringPayments_OBSOLETE"
+ },
+ {
+  "guid": "3ca40dc12425ed446bbede666cbdd8c9",
+  "go_name": "SQ_OmenInFlesh"
+ },
+ {
+  "guid": "f429a6730df7bd940a7638a2720fab4a",
+  "go_name": "SQ_CrowLeftOfAMurder_Part2"
+ },
+ {
+  "guid": "b14f6a14e019e5c4294be4d9791cc3c2",
+  "go_name": "MQ_ShufflingTheDeck"
+ },
+ {
+  "guid": "30653e0712e6ffe4797de135a8150703",
+  "go_name": "SQ_VisceralEnds"
+ },
+ {
+  "guid": "8207fa0079728124bb1b8bf1fd783a5d",
+  "go_name": "SQ_APebbleInAPit"
+ },
+ {
+  "guid": "a754bddf274e22a43ba92ac79772d263",
+  "go_name": "SQ_DeadAsDreams"
+ },
+ {
+  "guid": "51c07b41ded4e8546af6386f999b245b",
+  "go_name": "SQ_ShatteredPride"
+ },
+ {
+  "guid": "1940c77ac368c8b489423ef6415cc58a",
+  "go_name": "TASK_LustfulSacraments"
+ },
+ {
+  "guid": "d7b8b41b1dc1ee94b964097751a7c00f",
+  "go_name": "SQ_120DaysOnHerringAndCheese"
+ },
+ {
+  "guid": "1b36418991843aa4ea6b0cc3ee727a70",
+  "go_name": "TASK_Cindermar"
+ },
+ {
+  "guid": "461407275f563584c9f3a850472e0258",
+  "go_name": "TASK_TheGildedMiracle"
+ },
+ {
+  "guid": "66c57b6bb7036e641b5830875ac9d6bf",
+  "go_name": "TASK_GiftsForTheQueen"
+ },
+ {
+  "guid": "63a75e711d51e3f4aa4555efa9b4a7c8",
+  "go_name": "SQ_PetitionTheLord"
+ },
+ {
+  "guid": "396f44a11c085e945ae0f96c7503ca99",
+  "go_name": "SQ_ISeeADarkness"
+ },
+ {
+  "guid": "a0d3f8e35a58b1849a72da80b35c6115",
+  "go_name": "TASK_BloodForBlood"
+ },
+ {
+  "guid": "a654b8f06be6c3347b509f3b704270e9",
+  "go_name": "SQ_TheWeightOfHonor"
+ },
+ {
+  "guid": "7580de83591f7d54385e24926c558a0f",
+  "go_name": "SQ_DESIGNTEST_RetakeHOS_MerchantRuins"
+ },
+ {
+  "guid": "24d9b039647b08d4ea2e639a6b39246d",
+  "go_name": "SQ_TheOnePercent"
+ },
+ {
+  "guid": "b806ba3dc2956b34eb4884a4a5899828",
+  "go_name": "TASK_Smith_ZombieArmor"
+ },
+ {
+  "guid": "b05e785312dee9a44a25067cd5dea4db",
+  "go_name": "SQ_BFF"
+ },
+ {
+  "guid": "a9b21e3dcf58ced489c0014cfdbc0c15",
+  "go_name": "SQ_AllAlongTheWatchtower"
+ },
+ {
+  "guid": "a812ebd5fdbf317439bb20ac264b2da5",
+  "go_name": "SQ_SpreadYourWings"
+ },
+ {
+  "guid": "35aa79e5f117bde499041b5e7adf9a7d",
+  "go_name": "SQ_WithArmsWideOpen"
+ },
+ {
+  "guid": "97a6ff64ae9539445bf34c7abf34abba",
+  "go_name": "TASK_HandyBusiness"
+ },
+ {
+  "guid": "bf7f895f9f323354a8e102dac1fd75a1",
+  "go_name": "SQ_VoiceFromTheRift"
+ },
+ {
+  "guid": "8a280f46fb39a9a4caa41415d7b42b85",
+  "go_name": "Task_Providence"
+ },
+ {
+  "guid": "52a77e073b49b6b459e2f69759688718",
+  "go_name": "SQ_PlaceOnceMine"
+ },
+ {
+  "guid": "43f881ad9839e55439f8fbcee8f13abf",
+  "go_name": "SQ_DistanceAndMeaning"
+ },
+ {
+  "guid": "cb032673d8a599a4495808dec4b23a85",
+  "go_name": "SQ_SigiAlwaysWins"
+ },
+ {
+  "guid": "2d6b6f59447376041873b5fc5ee19735",
+  "go_name": "TASK_TamingTheSea"
+ },
+ {
+  "guid": "2d78a22c42fa92843991709600bc3b24",
+  "go_name": "Task_Condolences"
+ },
+ {
+  "guid": "7e5ddb5c1631e1f47b3ec2a70b3aae00",
+  "go_name": "SQ_KnifeInTheDirt"
+ },
+ {
+  "guid": "5a9abe33e2ca280499048ee212d58d8b",
+  "go_name": "SQ_TheLastEnchantment"
+ },
+ {
+  "guid": "b1a175fb3b8784c449ba7993ac4265cd",
+  "go_name": "SQ_OldBonesNewFire"
+ },
+ {
+  "guid": "7d968c1118b4a5a4c88707d5a2efda53",
+  "go_name": "TASK_LeftBehind"
+ },
+ {
+  "guid": "47538215d91edd946b42c1b2a5555276",
+  "go_name": "IA_TheGreatEscape"
+ },
+ {
+  "guid": "e7ca43aa71a0ade4a8f951d823c9552f",
+  "go_name": "SQ_SepulchralPath"
+ },
+ {
+  "guid": "451022354b96d1a44bc2da403f91f8c7",
+  "go_name": "SQ_HoldHerHeadHigh"
+ },
+ {
+  "guid": "a68acd5ea8ed8114ea5cc3d8096707bd",
+  "go_name": "TASK_GivenTheGate_TheHungryOne"
+ },
+ {
+  "guid": "0056d4447f61d524485b0ac842e2660d",
+  "go_name": "SQ_StuckInTheCycle"
+ },
+ {
+  "guid": "18e4c7d6a9caeda4d8dea084d5e10eaa",
+  "go_name": "SQ_ForTheSilent"
+ },
+ {
+  "guid": "e3fe8c3a648513047a4a76eb0121da4e",
+  "go_name": "SQ_TheLastHunt"
+ },
+ {
+  "guid": "b1f3598e5e9f60d4dadfe876150ebf56",
+  "go_name": "SQ_HappilyEverAfter"
+ },
+ {
+  "guid": "e573e2c9649f4b7479b82e7f6a51af85",
+  "go_name": "SQ_Monk"
+ },
+ {
+  "guid": "bb0944b989bca5e469e247dd8fa0bd4c",
+  "go_name": "TASK_RestoringTheFV"
+ },
+ {
+  "guid": "7a9b2f0f5b1a1e4489e34b8c7f729bb0",
+  "go_name": "SQ_BehindTheCurtain"
+ },
+ {
+  "guid": "a43b61cf888db9b4db0c1bf3e4c06538",
+  "go_name": "SQ_ThroneOfTheDepths"
+ },
+ {
+  "guid": "a40745a2365e8954dbfbb331863ffa12",
+  "go_name": "SQ_DuncanIsMissing"
+ },
+ {
+  "guid": "d1d12b32bfa352d45b80364e3af3f765",
+  "go_name": "TASK_Smith_SkeletonArmor"
+ },
+ {
+  "guid": "26c1098f00aea924da3a12977c1daaba",
+  "go_name": "SQ_SunkenTreasures"
+ },
+ {
+  "guid": "133470ad5b12c45498e44561b7c9ecbf",
+  "go_name": "SQ_IrrationalHatred"
+ },
+ {
+  "guid": "8045ff0ffdaf67843b0ab1e9b9abf830",
+  "go_name": "SQ_TheBreach"
+ },
+ {
+  "guid": "6dda7f24f38ec0b42abb35571515ae43",
+  "go_name": "SQ_GreatBeastsSouvenir"
+ },
+ {
+  "guid": "e7f950013a23c0c41972ff00e5b20e94",
+  "go_name": "SQ_TheManOfTheNight"
+ },
+ {
+  "guid": "7765f48c2cbcef04caff7c67bc397e81",
+  "go_name": "SQ_OneAgainstTheTide"
+ },
+ {
+  "guid": "5cdad9eb194af984e8e5d14314215ff4",
+  "go_name": "SQ_TheCrookedTrail"
+ },
+ {
+  "guid": "0d5ff99edc3afae43bf4dade8bc6a6c9",
+  "go_name": "SQ_OhMerryMen"
+ },
+ {
+  "guid": "a2919b4725d79e04e988c67c3cb9f5d3",
+  "go_name": "SQ_AgeOfExcuse"
+ },
+ {
+  "guid": "34dd3ab428c4a314ab1d0f668c7e256d",
+  "go_name": "SQ_PumpkinPeril"
+ },
+ {
+  "guid": "73a8c9b636d46de48b39d397b1a1b1c4",
+  "go_name": "SQ_LostInLiminal"
+ },
+ {
+  "guid": "e2b194735c9d83641ab4427a16365e71",
+  "go_name": "TASK_GraspingAtStraws"
+ },
+ {
+  "guid": "4804554a14bb4c34abcc5133e96608a7",
+  "go_name": "SQ_AltarsofMadness"
+ },
+ {
+  "guid": "78f762073f0ee5e4a88eb628dbd9d08f",
+  "go_name": "TASK_GatheringEtherealCobwebs"
+ },
+ {
+  "guid": "add738d2399e8a842a5eb7219411a8b6",
+  "go_name": "SQ_ForgingTies"
+ },
+ {
+  "guid": "29f94e653842b1346a6a6985642f9dfc",
+  "go_name": "SQ_TighteningTheScrews"
+ },
+ {
+  "guid": "9c160167a9096994bb43c506a68e876e",
+  "go_name": "SQ_Dressmaker"
+ },
+ {
+  "guid": "37f0957f5dd503a4a82a14d01f7aed55",
+  "go_name": "SQ_TheKillersOfReason"
+ },
+ {
+  "guid": "16f1b6aebb609df48ba0788ac759521d",
+  "go_name": "SQ_ThingOnTheDoorstep"
+ },
+ {
+  "guid": "8684fd1427d556d4cb84f875d3a3fcb8",
+  "go_name": "SQ_LoomingShadows"
+ },
+ {
+  "guid": "f57810cb2dfcc764688ee2dcc666461c",
+  "go_name": "TASK_Nivera"
+ },
+ {
+  "guid": "a1fee34b01a473946a86e5b46c294989",
+  "go_name": "SQ_ShadowOfTheHornedGod"
+ },
+ {
+  "guid": "893ffd54cbcbf8e4aad219227d9f529e",
+  "go_name": "TASK_FingerlessColm"
+ },
+ {
+  "guid": "3497cc087a79de74691247bc5ae58797",
+  "go_name": "SQ_TheTowerOfBoneAndTimber"
+ },
+ {
+  "guid": "ec35daa25daf06440b6b120eb5a17859",
+  "go_name": "MQ_TheDescent"
+ },
+ {
+  "guid": "4923340db53f338478394299ad460082",
+  "go_name": "MQ_DividedWeFall"
+ },
+ {
+  "guid": "ab7aa0815c9ffe248a0115dd2ab56baf",
+  "go_name": "Debug_Quest_Major_Lvl5"
+ },
+ {
+  "guid": "61cc9355048e11140a8326cd10e6571f",
+  "go_name": "SQ_TheBrokenHourglass"
+ },
+ {
+  "guid": "90b81212622a4b142885901082af492c",
+  "go_name": "TASK_IronWorks"
+ },
+ {
+  "guid": "7efc220e4f9c8a442aad8724cc2bc167",
+  "go_name": "TASK_SenanTheGiant"
+ },
+ {
+  "guid": "63ec4131b9b313a489227ba7ce720253",
+  "go_name": "SQ_CallOfTheWintermoon"
+ },
+ {
+  "guid": "b1cd5e1c41e4de14f823374b7b222737",
+  "go_name": "SQ_Monk_Secret"
+ },
+ {
+  "guid": "aea113d6832d1544a9f20c2c59084d4c",
+  "go_name": "TASK_GivenTheGate_TheThirstyOne"
+ },
+ {
+  "guid": "07eb317c7fe4fda40ba7e3d42555c03a",
+  "go_name": "SQ_TheForkedPath"
+ },
+ {
+  "guid": "741ad32755ab07b48b88be919a2e821e",
+  "go_name": "SQ_CrowLeftOfAMurder"
+ },
+ {
+  "guid": "6c7e75b170b928b488b455a4fc8b4686",
+  "go_name": "TASK_MurderOnDemand"
+ },
+ {
+  "guid": "5ec9c795135825948917c0cc58aacd52",
+  "go_name": "SQ_ReasonableDislike_OBSOLETE"
+ },
+ {
+  "guid": "5312476f24c5950418d5a861efc917c8",
+  "go_name": "TASK_HuntForWyrddeer"
+ },
+ {
+  "guid": "d12914c68fa0de641aca2ede2369c6de",
+  "go_name": "Task_RepairingJetty"
+ },
+ {
+  "guid": "d1c83d9caf8f8ff48a20fed382a582bb",
+  "go_name": "SQ_WalkingTheFields"
+ },
+ {
+  "guid": "8f2136117766c6243b90dbb3b10b9cb9",
+  "go_name": "SQ_Heledd"
+ },
+ {
+  "guid": "1177997f0f70c384ebbd22ae47ebc9c0",
+  "go_name": "SQ_WhereTheLightOnceDwelled"
+ },
+ {
+  "guid": "fe75a96bac2592c4db8841d107af76c3",
+  "go_name": "SQ_FieldsOfLights"
+ },
+ {
+  "guid": "0aa0ef8009cdc8d418512cc13452813a",
+  "go_name": "TASK_Thorne"
+ },
+ {
+  "guid": "436877734caef564fb744ca5109161a8",
+  "go_name": "TASK_WhatGrowsFromGrief"
+ },
+ {
+  "guid": "e65e7d8cca339a44aa8734955a885c80",
+  "go_name": "SQ_BloodStainsTheCircle"
+ },
+ {
+  "guid": "b723bd3cbc720ca4db664cedacea01e1",
+  "go_name": "SQ_ActsOfKindness"
+ },
+ {
+  "guid": "724c7ab6107658e48a46fd4fefb257d7",
+  "go_name": "SQ_CuckoosEgg"
+ },
+ {
+  "guid": "4e1bc64c77bc5af499f24010aad50cf7",
+  "go_name": "SQ_PureMorning"
+ },
+ {
+  "guid": "33166a3e2937d3449ac86a87ed4bed94",
+  "go_name": "SQ_Misgivings"
+ },
+ {
+  "guid": "ffb12b15961577b4fa482d969727e90c",
+  "go_name": "SQ_TheSleepThatNeverComes"
+ },
+ {
+  "guid": "84772ae7bc3147845b2a06bc4e849d70",
+  "go_name": "SQ_WhispersInTheDark"
+ },
+ {
+  "guid": "2048a2c87c2d2e74d95feef8e6b489c0",
+  "go_name": "SQ_LightReading"
+ },
+ {
+  "guid": "5b5f0af334c3f054eab09b751fe66295",
+  "go_name": "Task_RebuildingTheManor"
+ },
+ {
+  "guid": "c0b2861bb35653b41b0dfe3507352d56",
+  "go_name": "MQ_TheLongDefeat"
+ },
+ {
+  "guid": "295666ed22cf21341b8a72ff69480d8f",
+  "go_name": "SQ_SilentBurden"
+ },
+ {
+  "guid": "dcc5ddb99cba16547992eb38a3632d83",
+  "go_name": "SQ_ThePriceOfHealing"
+ },
+ {
+  "guid": "ef364084edde80f42930da2df545dd35",
+  "go_name": "TASK_Kestrel"
+ },
+ {
+  "guid": "8ed6899ca2b8bd54b898e94745cb8227",
+  "go_name": "SQ_TheJawsOfJustice"
+ },
+ {
+  "guid": "fe8348aaf493a2b43922d87363f9e76a",
+  "go_name": "Task_SpeakWithAngsvar"
+ },
+ {
+  "guid": "f7de315064d243c45a4fa8b06165bc58",
+  "go_name": "TASK_Cryptobro_DrownersTongues"
+ },
+ {
+  "guid": "149a57ed6a22f7b4d8f4a3a4fb3a5f46",
+  "go_name": "TASK_Smith_CorpseEaterArmor"
+ },
+ {
+  "guid": "de6cdcfe98578a0429aa7b32cf75360b",
+  "go_name": "SQ_ExtinctionOfTheWeak"
+ },
+ {
+  "guid": "c8f8b3ce4d9bcdb4e976d039c382bcd4",
+  "go_name": "Debug_Quest_Minor_Lvl5"
+ },
+ {
+  "guid": "fd022d74bc1c49a4883950198a1db51c",
+  "go_name": "SQ_StinkAndBurn"
+ },
+ {
+  "guid": "64e432e80bcb23f499c617b8876acb4a",
+  "go_name": "SQ_TheWarmestCoat"
+ },
+ {
+  "guid": "2d11b44abe511c64da1a90b4f17e7173",
+  "go_name": "TASK_Wolfpelts"
+ },
+ {
+  "guid": "73eeebef61d97ae4b9a96f579ff71896",
+  "go_name": "SQ_TheFirstStepOfMany"
+ },
+ {
+  "guid": "f176fe5a86ee25b45b735459774555e5",
+  "go_name": "SQ_HeartTurnsToStone"
+ },
+ {
+  "guid": "78386f94d4760374fa3baf34610dd217",
+  "go_name": "SQ_DatenightWithAlisa"
+ },
+ {
+  "guid": "9e31a57f233be914db9984b8de80ba96",
+  "go_name": "TASK_DreamALittleDream"
+ },
+ {
+  "guid": "3c055f03aa6802242be0a21c6be73a93",
+  "go_name": "MQ_HaveANiceTrip"
+ },
+ {
+  "guid": "7e376d989ea3d9d49bdfb41a1eddda52",
+  "go_name": "SQ_ThereWasLightBefore"
+ },
+ {
+  "guid": "0a11449555f97cf4a8403a37c5609cbc",
+  "go_name": "SQ_EchoesInStone"
+ },
+ {
+  "guid": "9c77b7690163be44093fd11d4bb0fd82",
+  "go_name": "TASK_GoldenSuggestions"
+ },
+ {
+  "guid": "2b0392de58c667247b0dd6ec8c083386",
+  "go_name": "SQ_GodsCure"
+ },
+ {
+  "guid": "643caa450e8e6cf4fb1037f4625da104",
+  "go_name": "TASK_IllBeWaiting"
+ },
+ {
+  "guid": "5e5ffd6bb784c854598e023d5055de29",
+  "go_name": "SQ_WhenGodsSpeak"
+ },
+ {
+  "guid": "9efa77a1cefe6d44fab4200d35ec37a7",
+  "go_name": "SQ_FlowersForBetrys"
+ },
+ {
+  "guid": "d4254f5df61eab04ebd6d4cb41316fee",
+  "go_name": "SQ_CrowLeftOfAMurder_Part3"
+ },
+ {
+  "guid": "d0796c4b66b2aee40855344c9fb7798c",
+  "go_name": "SQ_RootsOfKnowledge"
+ },
+ {
+  "guid": "aca8d1df086a34444b29717356be52c2",
+  "go_name": "SQ_TheWordIsSilent"
+ },
+ {
+  "guid": "a92cda72f1d77594c92762524566497a",
+  "go_name": "SQ_ConqueredScars"
+ },
+ {
+  "guid": "a02a133147fcd354da949a695f4624a7",
+  "go_name": "SQ_RiseTheMountain"
+ },
+ {
+  "guid": "a1da82ac8c89b5a41b52704116ae933c",
+  "go_name": "SQ_MomsFinestPie"
+ },
+ {
+  "guid": "483cee7f729c9ac41a04254b21cb3915",
+  "go_name": "SQ_TheEmptyHouse"
+ },
+ {
+  "guid": "b252df60ad27caa48a4ccbb7f253e662",
+  "go_name": "TASK_DeserterScalps"
+ },
+ {
+  "guid": "2721592bc9b94a4468af02af269a1069",
+  "go_name": "SQ_HarrowingOfHearts"
+ },
+ {
+  "guid": "6df73d12b610c6d42876099aff71e380",
+  "go_name": "TASK_MessageInABottle"
+ },
+ {
+  "guid": "529dcf6c83965b74fbc39a5fcd086c0c",
+  "go_name": "SQ_ImmoralAndDivine"
+ },
+ {
+  "guid": "b1ce0fd8293a62c45987217359c687ba",
+  "go_name": "TASK_Lorcan"
+ },
+ {
+  "guid": "3ed2becd27b32db4f87011fd4ba4644d",
+  "go_name": "SQ_TamingTheUnknown"
+ },
+ {
+  "guid": "686e86c1b2992704093fa8104a6c9ac6",
+  "go_name": "SQ_ForgingAPath"
+ },
+ {
+  "guid": "08f3fd7e7a81cf643a1dd4f96b59cca8",
+  "go_name": "TASK_Croakmaw"
+ },
+ {
+  "guid": "9372bd636eaf7dc4aa2c3bb8b1450153",
+  "go_name": "TASK_BrimshadeHidesForHrafn"
+ },
+ {
+  "guid": "a09f81a09124f474da8b09acb0f6620d",
+  "go_name": "TASK_LostForWords"
+ },
+ {
+  "guid": "ba60ab23923c60142ade0e1d47ead532",
+  "go_name": "SQ_DESIGNTEST_RetakeHOS_AbandonedVillage"
+ },
+ {
+  "guid": "95008be79af484840a8f6d6d8cbd6dc2",
+  "go_name": "SQ_TheCrumble"
+ },
+ {
+  "guid": "e1bb164400106a140877f007c71280ff",
+  "go_name": "SQ_TheSilkRoad"
+ },
+ {
+  "guid": "aad6ef7e47348064b91e54e050f0f613",
+  "go_name": "TASK_AshesToAshes"
+ },
+ {
+  "guid": "51da76697a6fa8a4ea91f0e18aceaad5",
+  "go_name": "SQ_AberrantMinds"
+ },
+ {
+  "guid": "5198dda89c307c447af79dffcc45a668",
+  "go_name": "TASK_ThisIsThePartWhereYouRunAway"
+ },
+ {
+  "guid": "05f3b8427eb90ef40b34b1cbe9411cc4",
+  "go_name": "SQ_BribeItOn"
+ },
+ {
+  "guid": "9a45e2f8abe06f546b7b1f2d4423bce2",
+  "go_name": "SQ_TheWanderingMiracle"
+ },
+ {
+  "guid": "40a1edcff28d9a9429b601ae32a4eab6",
+  "go_name": "TASK_GivenTheGate_TheChallenge"
+ },
+ {
+  "guid": "5bfe542b490be514cae7124edb25f994",
+  "go_name": "TASK_KillSingworm"
+ },
+ {
+  "guid": "4dd7c512e8d877542adaddd0ee87c85b",
+  "go_name": "SQ_DeDieNatali"
+ },
+ {
+  "guid": "e213a2b13b11a07479d54a3da3ef8eaf",
+  "go_name": "SQ_ForgeExtinguished"
+ },
+ {
+  "guid": "b6ca5677fb541c24f87b4f478d901981",
+  "go_name": "SQ_FragmentsOfHumanity"
+ },
+ {
+  "guid": "b5af47e3e43883a4c8b4200ba28fd4ba",
+  "go_name": "TASK_FleshOfTheForest"
+ },
+ {
+  "guid": "91d2d3e6f341edd4cb917defa32d4444",
+  "go_name": "SQ_Deiform"
+ },
+ {
+  "guid": "892448c551297194fa3b4d4a985c5440",
+  "go_name": "SQ_ItsOnlyForever"
+ },
+ {
+  "guid": "b0b24d302ff1ddf43ba020181021e697",
+  "go_name": "MQ_Apocalypticists"
+ },
+ {
+  "guid": "f47f145ce805d7347b0a0c588fa94dcd",
+  "go_name": "SQ_BrokenStrings"
+ },
+ {
+  "guid": "96df5d4271fe5824eb1159308feb789a",
+  "go_name": "SQ_OverMyDeadBodies"
+ },
+ {
+  "guid": "438e33a1a9167da47911826b87c798a2",
+  "go_name": "SQ_Unforgettable"
+ },
+ {
+  "guid": "b09e51bef6a6a90479171ff0cfd0faf0",
+  "go_name": "SQ_DelicateMatter"
+ },
+ {
+  "guid": "fab649c389ea9cd4cb1b155e97b9029d",
+  "go_name": "Task_Crowned"
+ },
+ {
+  "guid": "96303ce700c88134e82283b0f55b844b",
+  "go_name": "TASK_StagfathersShrineTrial"
+ },
+ {
+  "guid": "18007ad31a7c5524e9756d0d2cfb02e2",
+  "go_name": "Debug_Quest_Major_Lvl2"
+ },
+ {
+  "guid": "c146c44444bda5048aa7c70909f514ab",
+  "go_name": "MQ_MelodyOfTheDeep"
+ },
+ {
+  "guid": "b848983626bcf2b43807dd1c8538e32d",
+  "go_name": "SQ_Temptation"
+ },
+ {
+  "guid": "319cd312355a8e44dad90f799f137cea",
+  "go_name": "SQ_UnholyMatrimony"
+ },
+ {
+  "guid": "a88dc2cb988d5914ea8d3694f88b2bd4",
+  "go_name": "SQ_EternalWar"
+ },
+ {
+  "guid": "bda9fc0f2f1fb764f8f7ac4b61da7c8f",
+  "go_name": "TASK_Bearclaws"
+ },
+ {
+  "guid": "617c998da8a07ff4fa743eb8155c3e60",
+  "go_name": "TASK_WeWontNeedIt"
+ },
+ {
+  "guid": "5c416491deb410448843a41fe7d25bc3",
+  "go_name": "SQ_DeadCongregation"
+ },
+ {
+  "guid": "c1394662ab279ff4db9bf3433e15f0b8",
+  "go_name": "SQ_TheBoyWithASlingshot"
+ },
+ {
+  "guid": "b05c7616d71384f4b90ecc00803a3f1f",
+  "go_name": "TASK_GivenTheGate_TheGourmand"
+ },
+ {
+  "guid": "2eb3912a38ab5654e8766144cdba222e",
+  "go_name": "TASK_LikeRainToSea"
+ },
+ {
+  "guid": "8f172e8d799eae44f98c1609b1b13b04",
+  "go_name": "TASK_KamelotSoldierStash"
+ },
+ {
+  "guid": "27595ac60c388e9498a0060eb37db32c",
+  "go_name": "TASK_Smith_DrownerArmor"
+ },
+ {
+  "guid": "c70b6c8852807de448d1864f903f469b",
+  "go_name": "SQ_DrinkingBuddies"
+ },
+ {
+  "guid": "b6cf7e8313c6357448f97f687f4d5877",
+  "go_name": "SQ_ThePriceOfPerfection"
+ },
+ {
+  "guid": "3c10752ca8e365c4ebcfbcf7d2ba405b",
+  "go_name": "SQ_WhatTheWaterGaveMe"
+ },
+ {
+  "guid": "feaa36fc139477549b12156208624847",
+  "go_name": "MQ_ShadowOfTheHorns"
+ },
+ {
+  "guid": "b916ff8de26b4fe4485966a82b4ad3aa",
+  "go_name": "SQ_TheHeartThatDefies"
+ },
+ {
+  "guid": "5a76801bf88aeaf429bdc99b33d181f6",
+  "go_name": "TASK_SeaweedCake"
+ },
+ {
+  "guid": "980ff1745e0e4ca4f992c2b38dd77ee2",
+  "go_name": "MQ_MenhirRites"
+ },
+ {
+  "guid": "c9666728b07f77648b8554e07100aed3",
+  "go_name": "Debug_Quest_Minor_Lvl2"
+ },
+ {
+  "guid": "16c31064d49ad0e4bb9f80745c45fdb8",
+  "go_name": "SQ_SeeNoEvil"
+ },
+ {
+  "guid": "99babacb18fe68243ba89b5183997d73",
+  "go_name": "SQ_FollowHerPath"
+ },
+ {
+  "guid": "db71565a4327aed49886bd639a1c5b43",
+  "go_name": "SQ_AtTheCrestOfTheCurrent"
+ },
+ {
+  "guid": "0cb46ea8a6c500d46b28080d01905a45",
+  "go_name": "SQ_TheTrial"
+ },
+ {
+  "guid": "42eb4666ed8978648993d5a284b8b1c8",
+  "go_name": "SQ_TheLongSwimHome"
+ },
+ {
+  "guid": "f29af16d609c07447b431cf523a41016",
+  "go_name": "SQ_DESIGNTEST_RetakeHOS_Gallows"
+ },
+ {
+  "guid": "502f9d571b762ae4ba59f2ff0800914b",
+  "go_name": "SQ_BlackTarProphecies"
+ },
+ {
+  "guid": "f1696e2d6b9fc514ea22ba8c4b4dbb4f",
+  "go_name": "SQ_DoubtIsALonelyPlace"
+ },
+ {
+  "guid": "8c8f5d38c81894a45b7d3929f844d981",
+  "go_name": "SQ_PerindeAcCadaver"
+ },
+ {
+  "guid": "7e983a1e3e7d4e946b47b8da9a8fe467",
+  "go_name": "SQ_TheFirstMen"
+ },
+ {
+  "guid": "a7713440e0d1bcd49bb8c178798cb221",
+  "go_name": "Task_CurdsAndCuriosities"
+ },
+ {
+  "guid": "ea2fcb3f789534140bfc9350f78d7b84",
+  "go_name": "SQ_BringHomeMyHeart"
+ },
+ {
+  "guid": "1b702b87ecd1c944dae8c713bcf41e92",
+  "go_name": "TASK_Cryptobro_EyeOfMarrowghast"
+ },
+ {
+  "guid": "434e717997d2ee64bb4499e6d53d8f33",
+  "go_name": "SQ_WhisperingCrystals_OBSOLETE"
+ },
+ {
+  "guid": "64bf73b089fd9f74588c0e9fed567fb9",
+  "go_name": "SQ_PriceOfForgiveness"
+ },
+ {
+  "guid": "817de9d08a8ca724f95b0b2b9d0ecb81",
+  "go_name": "SQ_BurdeningLetter"
+ },
+ {
+  "guid": "0e83fe01f8a305f4d8414997aaea1251",
+  "go_name": "SQ_TheAbyssBeckons"
+ },
+ {
+  "guid": "1688ff7aadb9b6e40bceed08209b69ce",
+  "go_name": "TASK_Vaelin"
+ },
+ {
+  "guid": "460430485454f5e41901ae40fc8fe181",
+  "go_name": "SQ_DESIGNTEST_RetakeHOS_KingsRoad"
+ },
+ {
+  "guid": "94f41c1b54074f546ae8f9ab8d28a2fb",
+  "go_name": "SQ_BrotherlyLove"
+ },
+ {
+  "guid": "a6d12be78c5c7d64e8faf3450350ae0c",
+  "go_name": "SQ_AsGoodAsGold"
+ },
+ {
+  "guid": "d6566d0255f524347bce0a63b26db05f",
+  "go_name": "TASK_Cryptobro_ForedwellersFinger"
+ },
+ {
+  "guid": "ddf3535c25105fd4b82b8eeec0d2cb1b",
+  "go_name": "SQ_WaywardSon"
+ },
+ {
+  "guid": "d8ae06ebc3e10844fb8ab230eacb8378",
+  "go_name": "TASK_GivenTheGate_TheDebate"
+ },
+ {
+  "guid": "c61f774d0e5c7604b94f25f190f24c25",
+  "go_name": "TASK_RustyArdghal"
+ },
+ {
+  "guid": "51f396d8e2137c942adb16a7b02fe572",
+  "go_name": "SQ_LingeringBonds"
+ }
+]
